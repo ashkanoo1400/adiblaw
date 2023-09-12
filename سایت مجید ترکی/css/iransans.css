@@ -1,0 +1,103 @@
+@font-face {
+	font-family: IRANSans;
+	font-style: normal;
+	font-weight: 900;
+	src: url('iransans/eot/IRANSansWeb(FaNum)_Black.eot');
+	src: url('iransans/eot/IRANSansWeb(FaNum)_Black.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('iransans/woff2/IRANSansWeb(FaNum)_Black.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('iransans/woff/IRANSansWeb(FaNum)_Black.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+		 url('iransans/ttf/IRANSansWeb(FaNum)_Black.ttf') format('truetype');
+}
+@font-face {
+	font-family: IRANSans;
+	font-style: normal;
+	font-weight: bold;
+	src: url('iransans/eot/IRANSansWeb(FaNum)_Bold.eot');
+	src: url('iransans/eot/IRANSansWeb(FaNum)_Bold.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('iransans/woff2/IRANSansWeb(FaNum)_Bold.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('iransans/woff/IRANSansWeb(FaNum)_Bold.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+		 url('iransans/ttf/IRANSansWeb(FaNum)_Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: IRANSans;
+	font-style: normal;
+	font-weight: 500;
+	src: url('iransans/eot/IRANSansWeb(FaNum)_Medium.eot');
+	src: url('iransans/eot/IRANSansWeb(FaNum)_Medium.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('iransans/woff2/IRANSansWeb(FaNum)_Medium.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('iransans/woff/IRANSansWeb(FaNum)_Medium.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+		 url('iransans/ttf/IRANSansWeb(FaNum)_Medium.ttf') format('truetype');
+}
+@font-face {
+	font-family: IRANSans;
+	font-style: normal;
+	font-weight: 300;
+	src: url('iransans/eot/IRANSansWeb(FaNum)_Light.eot');
+	src: url('iransans/eot/IRANSansWeb(FaNum)_Light.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('iransans/woff2/IRANSansWeb(FaNum)_Light.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('iransans/woff/IRANSansWeb(FaNum)_Light.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+		 url('iransans/ttf/IRANSansWeb(FaNum)_Light.ttf') format('truetype');
+}
+@font-face {
+	font-family: IRANSans;
+	font-style: normal;
+	font-weight: 200;
+	src: url('iransans/eot/IRANSansWeb(FaNum)_UltraLight.eot');
+	src: url('iransans/eot/IRANSansWeb(FaNum)_UltraLight.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('iransans/woff2/IRANSansWeb(FaNum)_UltraLight.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('iransans/woff/IRANSansWeb(FaNum)_UltraLight.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+		 url('iransans/ttf/IRANSansWeb(FaNum)_UltraLight.ttf') format('truetype');
+}
+@font-face {
+	font-family: IRANSans;
+	font-style: normal;
+	font-weight: normal;
+	src: url('iransans/eot/IRANSansWeb(FaNum).eot');
+	src: url('iransans/eot/IRANSansWeb(FaNum).eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('iransans/woff2/IRANSansWeb(FaNum).woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('iransans/woff/IRANSansWeb(FaNum).woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+		 url('iransans/ttf/IRANSansWeb(FaNum).ttf') format('truetype');
+}
+body {
+	font-family: IRANSans !important;
+	font-weight: 300;
+	letter-spacing: -0.7px;
+}
+h1, h2, h3, h4, h5, h6,input, textarea,a,ul,li,button,form,rs-layer {
+	font-family: IRANSans !important;
+	letter-spacing: -0.7px;
+}
+h1,h2 {
+	font-weight: 900 !important;
+}
+h3, h4, h5, h6{
+  font-weight: 700 !important;
+}
+.entry-date span:nth-child(1),.ct-counter-layout4 .ct-counter-number,.elementor-3193 .elementor-element.elementor-element-5a80544,.ct-cta1 .item--holder .item--title,.ct-counter-layout1:not(.elementor-widget) .ct-counter-number,.ct-testimonial-carousel3 .item--description, .ct-testimonial-grid2 .item--description,.ct-tabs--layout2 .ct-tab-content .tab-sub,.grid-filter-wrap span,#ct-header-wrap #ct-header-top.ct-header-top1 .ct-header-wellcome,#ct-header-wrap .ct-header-holder,.ct-heading .item--sub-title,.ct-widget-cart-sidebar .widget_shopping_title,.site-h4 #ct-header-wrap .ct-header-meta > div,.ct-main-menu li a,.ct-pricing-layout2 .pricing-price{
+	font-family: IRANSans !important;
+
+}
+.ct-counter-title, .ct-counter-number,.ct-tabs--layout1.style2 .ct-tab-title.active, .about-call2 span, .ct-testimonial-carousel2 .item--description,.ct-counter-layout3.style3 .ct-counter-title, .ct-counter-layout3.style3 .ct-counter-number, .ct-testimonial-carousel12 .item--description, .ct-contact-info3 .ct-contact-inner .item--content, .ct-blog-carousel-layout7 .item--content, .ct-client-grid1 .client-desc, .ct-team-carousel5 .item--position{
+	font-family: IRANSans !important;
+
+}
+.ct-cover-boxes1 .item--content .item--content-inner,.ct-progressbar4 .ct-progress-title, .ct-tab-banner3 .ct-tab-box, .ct-box-subtitle, .ct-box-content,.ct-video-title, .ct-blog-carousel-layout7 .item--date span, .revslider-initialised .tp-thumbs.theme_custom1 .tp-thumb,.btn, button, .button, input[type="submit"], .tnp-subscription .tnp-field-button .tnp-button,.ct-piechart-layout2 .item--holder span,.ct-contact-form-layout1 .wpcf7-form .cf7mls_progress_bar li .cf7_mls_steps_item_icon,.ct-pricing-layout3 .pricing-price,.ct-testimonial-carousel14 .item--description,.ct-statistics .ct-counter-wrap,.btn-arrow span:not(.ct-button-icon), .btn-arrow2 span:not(.ct-button-icon), .site-footer-custom, .ct-progressbar3 .ct-progress-title, .about-call3 span, .ct-blog-carousel-layout6 .item-date, .ct-piechart-layout1 .item--value span{
+	font-family: IRANSans !important;
+
+}
+.ct-progressbar3 .ct-progress-percentage, .ct-testimonial-carousel9 .item--holder .item--position, #ct-header-wrap.ct-header-layout11 .ct-header-holder .ct-header-info-item span, .ct-testimonial-carousel8 .item--position, .ct-pricing-multi-layout1 .ct-pricing-item-inner .ct-pricing-price{
+	font-family: IRANSans !important;
+
+}
+#ct-newsletter-popup .ct-newsletter-hide span{
+	font-family: IRANSans !important;
+}
+.ct-progressbar2 .ct-progress-title {
+    font-family: IRANSans !important;
+}
+.ct-tabs--layout1.style2 .ct-tab-title span {
+    font-family: IRANSans !important;
+}
+.ct-pricing-layout1 .pricing-recommend {
+    font-family: IRANSans !important;
+}
